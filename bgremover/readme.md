@@ -13,9 +13,11 @@ CamVid dataset is very apt for semantic segmentation because it provides annotat
 
 To see the performance of model based on Tiramisu, I had used pretrained Semantic Image Segmentation pretrained models from Google called DeepLab. For more information on DeepLab, please go to following: https://github.com/tensorflow/models/tree/master/research/deeplab
 
-I had used the following model: <b>deeplabv3_mnv2_pascal_train_aug</b>
+I had used the following pretrained model: <b>deeplabv3_mnv2_pascal_train_aug</b>
 
 # Results
+
+Overall both the models are performing good with the images with different backgrounds. 
 
 | Original Image       | Tiramisu based          | Deep Lab Model |    Comments |
 | ------------- |:-------------:| -----:|-----:|
