@@ -1,6 +1,6 @@
 # Background Remover using Tiramisu 
 
-Background Remover is built using Tiramisu, State-of-the-art approaches for semantic image segmentation are built on 100 layers Convolutional Neural Networks (CNNs), and trained using CamVid datasets. Model was trained using Laptop with NVidia GPU and is designed to remove background of an image using semantic image segmentation.
+Background Remover is built using Tiramisu, State-of-the-art approaches for semantic image segmentation built on 100 layers Convolutional Neural Networks (CNNs), and trained using CamVid datasets. Model was trained using Laptop with NVidia GPU and is designed to remove background of an image using semantic image segmentation.
 
 # Dataset used for training the model
 
