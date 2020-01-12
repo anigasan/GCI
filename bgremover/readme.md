@@ -1,1 +1,1 @@
-#BG Remover using Tiramisu and 
+# Background Remover using Tiramisu and DeepLab Model
