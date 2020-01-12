@@ -19,7 +19,7 @@ I had used the following pretrained model: <b>deeplabv3_mnv2_pascal_train_aug</b
 
 # Results
 
-Overall both the models are performing good with the images with different backgrounds. 
+Overall both the models are performing good with the images with different backgrounds and in different contexts. 
 
 | Original Image       | Tiramisu based          | Deep Lab Model |    Comments |
 | ------------- |:-------------:| -----:|-----:|
