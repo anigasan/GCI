@@ -15,6 +15,8 @@ To see the performance of model based on Tiramisu, I had used pretrained Semanti
 
 I had used the following pretrained model: <b>deeplabv3_mnv2_pascal_train_aug</b>
 
+![Image of DeepLab](https://github.com/anigasan/GCI/blob/master/bgremover/images/deeplab.png)
+
 # Results
 
 Overall both the models are performing good with the images with different backgrounds. 
